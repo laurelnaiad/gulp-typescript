@@ -1,3 +1,0 @@
-class Hello {
-	value: string;
-}
